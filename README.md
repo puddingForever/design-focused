@@ -2,6 +2,23 @@
 
 This repository contains a structured learning path for mastering modern animations and interactions in React applications. We'll cover everything from basic animations to advanced interaction patterns.
 
+# step
+
+Step 4: Interactive Animation
+Create an animation that responds to user interaction (like hover or click).
+Step 5: Staggered Animation
+Create multiple elements that animate in sequence.
+Step 6: Path Animation
+Create an element that follows a specific path.
+Step 7: Advanced Timing Functions
+Experiment with different timing functions for more natural animations.
+Step 8: Animation Performance
+Learn how to optimize animations for better performance.
+Step 9: Animation with React State
+Connect animations to React state changes.
+Step 10: Final Project
+Combine all the techniques you've learned into a complete interactive component.
+
 ## 🎯 Learning Path
 
 ### 1. Foundations (Week 1)

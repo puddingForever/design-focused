@@ -1,10 +1,10 @@
 import './App.css';
-import Square from './components/keyframe/Square';
+import RotateSquare from './components/keyframe/RotateSquare';
 
 function App() {
   return (
     <>
-      <Square />
+      <RotateSquare />
     </>
   );
 }
