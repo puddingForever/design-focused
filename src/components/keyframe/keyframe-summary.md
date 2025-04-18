@@ -46,23 +46,7 @@ transition: all 0.3s ease;
 }
 ```
 
-## 2. Animation Properties
-
-```css
-.element {
-  animation: name duration timing-function delay iteration-count direction;
-}
-```
-
-Example:
-
-```css
-.element {
-  animation: scale 2s ease-in-out 0s infinite alternate;
-}
-```
-
-## 3. Common Uses
+## 1. Common Uses
 
 1. **Loading Spinners**
 
@@ -105,7 +89,7 @@ Example:
 }
 ```
 
-## 4. Best Practices
+## 2. Best Practices
 
 1. **Keep it Simple**
 
@@ -127,7 +111,7 @@ Example:
    - Respect reduced-motion preferences
    - Don't rely solely on animation for information
 
-## 5. Common Mistakes to Avoid
+## 3. Common Mistakes to Avoid
 
 1. ❌ Animating too many properties
 2. ❌ Using too long durations
@@ -135,7 +119,7 @@ Example:
 4. ❌ Not considering performance
 5. ❌ Ignoring accessibility
 
-## 6. Quick Reference
+## 4. Quick Reference
 
 ### Basic Animation
 
