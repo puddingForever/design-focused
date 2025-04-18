@@ -1,10 +1,10 @@
 import './App.css';
-import ButtonTransition from './components/basic/ButtonTransition';
+import Square from './components/keyframe/Square';
 
 function App() {
   return (
     <>
-      <ButtonTransition />
+      <Square />
     </>
   );
 }

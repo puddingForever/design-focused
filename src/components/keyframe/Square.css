@@ -1,0 +1,20 @@
+.square-container {
+  width: 500px;
+  height: 500px;
+  background: orange;
+  animation: scale 2s infinite;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
