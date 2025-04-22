@@ -1,10 +1,10 @@
 import './App.css';
-import RotateSquare from './components/keyframe/RotateSquare';
+import MultiStepSquare from './components/keyframe/MultiStepSquare';
 
 function App() {
   return (
     <>
-      <RotateSquare />
+      <MultiStepSquare />
     </>
   );
 }

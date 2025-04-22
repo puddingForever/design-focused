@@ -35,3 +35,26 @@
     transform: rotate(360deg);
   }
 }
+
+.multi-step-square {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  animation: dynamic 4s infinite ease-in-out;
+}
+
+@keyframes dynamic {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+    background: red;
+  }
+
+  100% {
+    transform: scale(1.5) rotate(180deg);
+    background: green;
+  }
+}
