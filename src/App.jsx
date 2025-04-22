@@ -1,10 +1,10 @@
 import './App.css';
-import MultiStepSquare from './components/keyframe/MultiStepSquare';
+import GridAlignment from './components/grid/GridAlignment';
 
 function App() {
   return (
     <>
-      <MultiStepSquare />
+      <GridAlignment />
     </>
   );
 }

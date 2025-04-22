@@ -24,13 +24,13 @@ This repository contains a structured learning path for mastering modern animati
     - Flexbox for positioning
     - Transform-origin visualization
 - CSS Grid & Positioning Mastery
-  - Grid Fundamentals:
-    - Grid container vs grid items
-    - Grid template columns and rows
-    - Grid areas and naming
-    - Gap and alignment properties
-    - Auto-fit and auto-fill
-    - Fractional units (fr)
+  - [x] Grid Fundamentals:
+    - [x] Grid container vs grid items
+    - [x] Grid template columns and rows
+    - [x] Grid areas and naming
+    - [x] Gap and alignment properties
+    - [x] Fractional units (fr)
+    - [x] justify-content and align-content
   - Advanced Grid Concepts:
     - Grid line numbers and spans
     - Grid area placement
