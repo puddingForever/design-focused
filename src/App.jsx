@@ -1,10 +1,10 @@
 import './App.css';
-import GridAlignment from './components/grid/GridAlignment';
+import WidthHeight from './components/getBoundingClient/WidthHeight';
 
 function App() {
   return (
     <>
-      <GridAlignment />
+      <WidthHeight />
     </>
   );
 }

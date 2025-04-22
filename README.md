@@ -15,6 +15,12 @@ This repository contains a structured learning path for mastering modern animati
   - Cartesian coordinate system (x, y)
   - CSS positioning (top, right, bottom, left)
   - Transform origin and pivot points
+  - getBoundingClientRect() for precise measurements:
+    - Getting element dimensions (width, height)
+    - Getting element position (top, right, bottom, left)
+    - Getting element coordinates (x, y)
+    - Using with scroll positions
+    - Performance considerations
   - Common shape properties:
     - Rectangle: width, height, border-radius
     - Circle: radius, diameter
