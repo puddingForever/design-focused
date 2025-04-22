@@ -1,10 +1,10 @@
 import './App.css';
-import WidthHeight from './components/getBoundingClient/WidthHeight';
+import RotatingCare from './components/coordinates/RotatingCard';
 
 function App() {
   return (
     <>
-      <WidthHeight />
+      <RotatingCare />
     </>
   );
 }

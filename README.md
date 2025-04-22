@@ -12,8 +12,8 @@ This repository contains a structured learning path for mastering modern animati
   - [x] Animation timing functions
   - [x] CSS transform properties
 - Understanding Coordinates & Shapes
-  - Cartesian coordinate system (x, y)
-  - CSS positioning (top, right, bottom, left)
+  - [x] Cartesian coordinate system (x, y)
+  - [x] CSS positioning (top, right, bottom, left)
   - Transform origin and pivot points
   - getBoundingClientRect() for precise measurements:
     - [x] Getting element dimensions (width, height)
