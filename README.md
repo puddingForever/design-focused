@@ -16,7 +16,7 @@ This repository contains a structured learning path for mastering modern animati
   - CSS positioning (top, right, bottom, left)
   - Transform origin and pivot points
   - getBoundingClientRect() for precise measurements:
-    - Getting element dimensions (width, height)
+    - [x] Getting element dimensions (width, height)
     - Getting element position (top, right, bottom, left)
     - Getting element coordinates (x, y)
     - Using with scroll positions
